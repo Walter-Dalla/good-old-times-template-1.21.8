@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "north": "good-old-times:block/ic2/machine_block",
+    "south": "good-old-times:block/ic2/machine_block",
+    "west": "good-old-times:block/ic2/machine_block",
+    "east": "good-old-times:block/ic2/machine_block",
+    "up": "good-old-times:block/ic2/machine_block",
+    "down": "good-old-times:block/ic2/machine_block",
+    "particle": "good-old-times:block/ic2/machine_block"
+  }
+}

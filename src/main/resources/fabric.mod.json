@@ -1,32 +1,32 @@
 {
 	"schemaVersion": 1,
-	"id": "good-old-times",
+	"id": "goodoldtimes",
 	"version": "${version}",
-	"name": "good-old-times",
+	"name": "GoodOldTimes",
 	"description": "This is an example description! Tell everyone what your mod is about!",
 	"authors": [
 		"Me!"
 	],
 	"contact": {
 		"homepage": "https://fabricmc.net/",
-		"sources": "https://github.com/Walter-Dalla/good-old-times-mod-1.21.X"
+		"sources": "https://github.com/Walter-Dalla/GoodOldTimes-mod-1.21.X"
 	},
 	"license": "CC0-1.0",
-	"icon": "assets/good-old-times/icon.png",
+	"icon": "assets/GoodOldTimes/icon.png",
 	"environment": "*",
 	"entrypoints": {
 		"main": [
-			"br.com.walter.goodoldtime.GoodOldTimes"
+			"br.com.walter.GoodOldTimes.GoodOldTimes"
 		],
 		"fabric-datagen": [
-			"br.com.walter.goodoldtime.GoodOldTimesDataGenerator"
+			"br.com.walter.GoodOldTimes.GoodOldTimesDataGenerator"
 		],
-      "client": [
-        "br.com.walter.goodoldtime.GoodOldTimesModClient"
-      ]
+        "client": [
+          "br.com.walter.GoodOldTimes.GoodOldTimesModClient"
+        ]
     },
 	"mixins": [
-		"good-old-times.mixins.json"
+		"GoodOldTimes.mixins.json"
 	],
 	"depends": {
 		"fabricloader": ">=0.17.2",

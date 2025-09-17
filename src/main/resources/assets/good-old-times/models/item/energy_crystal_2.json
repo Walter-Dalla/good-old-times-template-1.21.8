@@ -1,0 +1,6 @@
+{
+"parent": "minecraft:item/generated",
+"textures": {
+"layer0": "good-old-times:item/ic2/energy_crystal_2"
+}
+}

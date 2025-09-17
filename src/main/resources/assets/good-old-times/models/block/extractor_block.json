@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "north": "good-old-times:block/extractor_block_north_off",
+    "south": "good-old-times:block/extractor_block_south_east_west_off",
+    "west": "good-old-times:block/extractor_block_south_east_west_off",
+    "east": "good-old-times:block/extractor_block_south_east_west_off",
+    "up": "good-old-times:block/extractor_block_up",
+    "down": "good-old-times:block/machine_block_down_default",
+    "particle": "good-old-times:block/machine_block_south_default"
+  }
+}

@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube_all",
+  "textures": {
+    "north": "good-old-times:block/ic2/cable/copper_cable_block",
+    "south": "good-old-times:block/ic2/cable/copper_cable_block",
+    "west": "good-old-times:block/ic2/cable/copper_cable_block",
+    "east": "good-old-times:block/ic2/cable/copper_cable_block",
+    "up": "good-old-times:block/ic2/cable/copper_cable_block",
+    "down": "good-old-times:block/ic2/cable/copper_cable_block",
+    "particle": "good-old-times:block/ic2/cable/copper_cable_block"
+  }
+}
