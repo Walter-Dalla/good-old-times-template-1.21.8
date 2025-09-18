@@ -1,5 +1,5 @@
 {
-  "parent": "block/cube_all",
+  "parent": "minecraft:block/cube_all",
   "textures": {
     "north": "good-old-times:block/extractor_block_north_off",
     "south": "good-old-times:block/extractor_block_south_east_west_off",
